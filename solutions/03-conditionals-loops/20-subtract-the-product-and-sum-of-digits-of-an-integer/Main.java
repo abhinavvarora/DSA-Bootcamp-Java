@@ -1,7 +1,7 @@
 public class Main {
   
   public static void main(String[] args) {
-    int n = 23094;
+    int n = 123540;
     int rem;
     int product = 1; 
     int sum = 0;
