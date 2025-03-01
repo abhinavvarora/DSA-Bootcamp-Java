@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-class reshape25 {
+class Reshape25 {
   public static void main(String[] args) {
     int[][] mat = {{1,2},{3,4}};
     int r = 2;

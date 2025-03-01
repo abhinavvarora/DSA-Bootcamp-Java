@@ -1,4 +1,4 @@
-public class WrongSearchInPeakMountain {
+public class WrongSearchInBitonicArray {
   public static int findMax(int[] arr){
     int start = 0;
     int end = arr.length - 1;

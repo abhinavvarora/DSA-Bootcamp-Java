@@ -1,4 +1,4 @@
-public class isPangram10 {
+public class IsPangramE10 {
   static boolean isPresent(int a, char[] arr){
     for (char letter : arr) {
       if (a == letter){

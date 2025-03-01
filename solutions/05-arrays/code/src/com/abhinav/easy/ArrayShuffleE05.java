@@ -1,5 +1,5 @@
 import java.util.Arrays;
-public class arrayShuffle_05 {
+public class ArrayShuffleE05 {
   public static void main(String[] args) {
     int[] nums = {2,5,1,3,4,7};
     int n = 3;
